@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, MainActivity!</string>
+    <string name="hello">Вот эту строку поменяешь- \nбудешь молодец!!!</string>
     <string name="app_name">AndroidJointProject</string>
 
 </resources>

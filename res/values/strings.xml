@@ -2,6 +2,7 @@
 <resources>
 
     <string name="hello">Вот эту строку поменяешь- \nбудешь молодец!!!</string>
+    <string name="KiriaDavai">Сча бы в новую активити, \n которая закроет вкладки!!!</string>
     <string name="app_name">AndroidJointProject</string>
     <string name="text_activity1">Это первое Activity</string>
     <string name="text_activity2">Это второе Activity</string>

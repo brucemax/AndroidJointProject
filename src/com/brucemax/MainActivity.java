@@ -24,12 +24,12 @@ public class MainActivity extends TabActivity {
         tabHost.addTab(tabSpec);
         
         tabSpec = tabHost.newTabSpec("tag2");
-        tabSpec.setIndicator("", getResources().getDrawable(R.drawable.tab_icon_selector));
+        tabSpec.setIndicator("Макс!", getResources().getDrawable(R.drawable.tab_icon_selector));
         tabSpec.setContent(new Intent(this, TwoActivity.class));
         tabHost.addTab(tabSpec);
         
         tabSpec = tabHost.newTabSpec("tag3");
-        tabSpec.setIndicator("", getResources().getDrawable(R.drawable.tab_icon_selector));
+        tabSpec.setIndicator("Киря!!!", getResources().getDrawable(R.drawable.tab_icon_selector));
         tabSpec.setContent(new Intent(this, ThreeActivity.class));
         tabHost.addTab(tabSpec);
         

@@ -21,6 +21,7 @@
         <activity android:name="OneActivity"></activity>
         <activity android:name="TwoActivity"></activity>
         <activity android:name="ThreeActivity"></activity>
+        <activity android:name="GameActivity"></activity>
     </application>
 
 </manifest>

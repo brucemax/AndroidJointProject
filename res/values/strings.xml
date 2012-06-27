@@ -6,5 +6,6 @@
     <string name="app_name">AndroidJointProject</string>
     <string name="text_activity1">Это первое Activity</string>
     <string name="text_activity2">Это второе Activity</string>
+    <string name="sQuestion">Question</string>
 
 </resources>
